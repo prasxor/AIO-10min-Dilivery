@@ -534,7 +534,7 @@ footer {
 }
 
 /* -------------------------------phone screen media------------------------------------------------- */
-@media (min-width:0px) and (max-width: 440px) {
+@media (max-width: 440px) {
   body {
     margin: 0;
     padding: 0;
@@ -629,3 +629,4 @@ footer {
     font-size: xx-small;
   }
 }
+/* -----------lablet screen----------------- */
