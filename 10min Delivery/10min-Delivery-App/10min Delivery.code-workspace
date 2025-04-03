@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "10min Delivery",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "10min Delivery"
+	}
+}

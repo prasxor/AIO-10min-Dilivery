@@ -1,0 +1,10 @@
+<h1>ALO</h1>
+        <h2>Grocerys Delivery in 10 minutes</h2>
+        <input type="number" name="" id="" />
+        <div class="bt">
+          <a href="#"><button>Login</button></a>
+        </div>
+        <p>
+          By continuing you agree to our <br />
+          <a href="#">Terms of service</a>& <a href="#">Privacy policy</a>
+        </p>
